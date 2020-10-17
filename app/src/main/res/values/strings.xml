@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prove05</string>
+    <string name="book">Enter a Book from the Scriptures</string>
+    <string name="chapter">chapter</string>
+    <string name="verse">verse</string>
+    <string name="send_button">Display</string>
+</resources>
